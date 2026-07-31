@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Rohan 👋
 
-<!--
-**rohannewone/rohannewone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Research Fellow and PhD student at the Aryabhatta Research Institute of Observational Sciences (ARIES). My research focuses on the multi-wavelength dynamics of small-scale solar transients, including coronal and transition-region jets, and microwave polar brightenings.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Doing
+- Analyzing data from the **Solar Orbiter, IRIS, AIA, and Aditya-L1** missions.
+- **Recent Work:** *Microwave Polar Brightening and its Connection to Polar Coronal Holes* https://iopscience.iop.org/article/10.3847/1538-4357/ae6b70/pdf
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **Languages & Libraries:** Python (NumPy, SciPy, Pandas, Astropy, SunPy), IDL
+- **Tools:** Overleaf, LaTeX, Git
+
+### 📫 Let's Connect
+- **Academic Profile:** https://scholar.google.com/citations?user=TnqPQaYAAAAJ&hl=en
+- **LinkedIn:** https://www.linkedin.com/in/rohan-bose-412587220/
